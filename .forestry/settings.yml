@@ -5,16 +5,17 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Content
+  label: Solutions
 - type: document
   path: content/about/info.md
-  label: Info Page
+  label: About HashiCorp
 - type: directory
   path: content/blog-posts
   label: Blog posts
   create: all
   match: "**/*"
   templates:
+  - blog
   - blog
 - type: document
   path: content/data/authors.yaml

@@ -4,22 +4,44 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: heading
-  label: Solutions
-- type: document
-  path: content/about/info.md
-  label: About HashiCorp
 - type: directory
-  path: content/blog-posts
-  label: Blog posts
+  path: content/nomad
+  label: nomad
   create: all
   match: "**/*"
   templates:
   - blog
-  - blog
+- type: heading
+  label: Home
+- type: document
+  path: content/about/info.md
+  label: About HashiCorp
 - type: document
   path: content/data/authors.yaml
   label: Authors List
+- type: heading
+  label: Solutions
+- type: directory
+  path: content/terraform
+  label: terraform
+  create: all
+  match: "**/*"
+  templates:
+  - blog
+- type: directory
+  path: content/vault
+  label: vault
+  create: all
+  match: "**/*"
+  templates:
+  - blog
+- type: directory
+  path: content/consul
+  label: consul
+  create: all
+  match: "**/*"
+  templates:
+  - blog
 - type: heading
   label: Config
 - type: document

@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "JunSang Park / jsp@hashicorp.com"
 date = "2019-10-29T15:00:00+00:00"
 hero = "/images/HashiCorp_PrimaryLogo_Black.png"
 tag = ["Hashicorp", "Terraform"]

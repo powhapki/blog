@@ -10,3 +10,5 @@ type = "blog"
 # this the test deployment
 
 ## Test for Terraform
+
+This is the sample page for publishing contents

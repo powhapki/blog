@@ -4,7 +4,7 @@ date: 2019-10-30T15:00:00+00:00
 background_color: "#B4CEC8"
 contact_info:
   twitter_handle: ''
-  github_handle: "@hashicorp"
+  github_handle: hashicorp
   email: hashicorpkr@gmail.com
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio

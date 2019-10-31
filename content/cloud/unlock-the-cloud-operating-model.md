@@ -24,4 +24,4 @@ type = "blog"
 
 클라우드 및 멀티 클라우드 환경으로의 전환은 IT의 세대 간 전환입니다. 이러한 전환은 프라이빗 데이터 센터의 대부분 전용 서버에서 온 디맨드 방식으로 사용 가능한 컴퓨팅 용량 풀로 전환하는 것을 의미합니다. 대부분의 기업은 하나의 클라우드 공급자로 시작했지만 다른 기업이 제공하는 서비스를 사용해야 할 타당한 이유가 있으며, 불가피하게 대부분의 글로벌 2000 조직은 계획 또는 인수 합병을 통해 둘 이상의 서비스를 사용하게 됩니다.
 
-![](https://lh5.googleusercontent.com/5M77A42-RlUP5dJ424gvDIRp9e3ewCl836CbiDeIekPunrCeMc3kXj85ca1bAupDcdORjf-Xnree055YXDI7QI2J_urbr3fS6XeFNxiKgZNszP2uGXGkOmSpiBwHcUwvr_e5wGK4 =624x228)
+[1556917230-co1556917230-commulti-cloud-transition-2x.png?fit=max&fm=webp&q=80&w=2000](https://www.datocms-assets.com/2885/1556917230-commulti-cloud-transition-2x.png?fit=max&fm=webp&q=80&w=2000 "Transitioning to a Multi-Cloud DataCenter")

@@ -38,3 +38,4 @@ fields:
     value: Luke, Sejoon Park / luke@hashicorp.com
 pages:
 - content/terraform/test.md
+- content/cloud/unlock-the-cloud-operating-model.md

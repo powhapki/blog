@@ -2,7 +2,7 @@
 author = "HashiCorp Korea"
 date = 2019-10-30T15:00:00Z
 draft = true
-hero = ""
+hero = "/images/HashiCorp_PrimaryLogo_Black.png"
 tag = []
 title = "Unlocking the Cloud Operating Model"
 type = "blog"

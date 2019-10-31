@@ -8,7 +8,7 @@ sections:
   label: Home
 - type: document
   path: content/about/info.md
-  label: About HashiCorp
+  label: About
 - type: document
   path: content/data/authors.yaml
   label: Authors List
@@ -17,13 +17,6 @@ sections:
 - type: directory
   path: content/terraform
   label: terraform
-  create: all
-  match: "**/*"
-  templates:
-  - blog
-- type: directory
-  path: content/cloud
-  label: cloud
   create: all
   match: "**/*"
   templates:
@@ -45,6 +38,15 @@ sections:
 - type: directory
   path: content/nomad
   label: nomad
+  create: all
+  match: "**/*"
+  templates:
+  - blog
+- type: heading
+  label: Resources
+- type: directory
+  path: content/cloud
+  label: cloud
   create: all
   match: "**/*"
   templates:

@@ -1,6 +1,6 @@
 ---
 title: About HashiCorp Korea
-date: 2019-10-30T15:00:00+00:00
+date: 2019-10-30T15:00:00.000+00:00
 background_color: "#B4CEC8"
 contact_info:
   twitter_handle: ''
@@ -9,7 +9,6 @@ contact_info:
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
 type: ''
-draft: true
 
 ---
 ## HashiCorp is Coming to Town!

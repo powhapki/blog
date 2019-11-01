@@ -1,8 +1,8 @@
 +++
 author = "HashiCorp Korea"
 date = 2019-10-30T15:00:00Z
-hero = "/images/HashiCorp_Icon_Black.png"
-tag = []
+hero = ""
+tag = ["HashiStack", "COM"]
 title = "Unlocking the Cloud Operating Model"
 type = "blog"
 
